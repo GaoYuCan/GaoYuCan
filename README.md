@@ -1,9 +1,14 @@
-## Sink's profile
-<p align="center">
-   <img src ="https://github-readme-stats.vercel.app/api?username=GaoYuCan&show_icons=true&hide_border=true&theme=graywhite&include_all_commits=true&count_private=true" style="display: inline-block;width: 40%">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=GaoYuCan&layout=compact&hide_border=true&langs_count=10&theme=graywhite&include_all_commits=true&count_private=true" style="display: inline-block;width: 40%">
-</p>
+## Hi  👋, I am Sink.
 
-- 🔭 I’m a Android Developer
-- 🌱 I like Mobile Security
-- 😄 Pronouns: Sink
+> 至博而约于精，深思而敏于行.
+
+### About me
+
+- 📖 A Student.
+- 🔭 A Android Developer and a Baby Reverse Engineer.
+- 🌱 Baby Reverse CTFer of r3kapig and Moblie Security Leader of iSEAL.
+
+### Contact me
+
+- ✉️ **Email**: gaoyucandev@gmail.com
+
