@@ -6,7 +6,7 @@
 
 - 📖 A Student.
 - 🔭 An Android Developer and a Baby Reverse Engineer.
-- 🌱 Intern Reverse CTFer of r3kapig and Moblie Security Leader of iSEAL.
+- 🌱 Reverse CTFer of r3kapig and Moblie Security Leader of iSEAL.
 
 ### Contact me
 
