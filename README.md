@@ -1,4 +1,4 @@
-## Hi  👋, I am Sink.
+## Hi  👋, I am s1nk.
 
 > 至博而约于精，深思而敏于行.
 
@@ -6,7 +6,7 @@
 
 - 📖 A Student.
 - 🔭 An Android Developer and a Baby Reverse Engineer.
-- 🌱 Reverse CTFer of r3kapig and Moblie Security Leader of iSEAL.
+- 🌱 Reverse CTFer of iSEAL@AHU & Dubhe@bupt & r3kapig.
 
 ### Contact me
 
